@@ -4,3 +4,5 @@ Since this Macro produces a report for the previous week's performance, and sinc
 Then the code scans Outlook for all emails received on the current week and looks for a specific attachment which is automatically sent by IBM COGNOS via email.
 Then it pastes the targeted attachment in an excel template that I use to automate the production of the final Report.
 The final report is saved as values into the RPATH and send via email witht he appropriate subject, date and destinataries.
+<br>
+Note: Due to Privacy, the real Path and Emails have been shortened using 
