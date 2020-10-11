@@ -1,4 +1,3 @@
-Attribute VB_Name = "Weekly_HTG_Fullfilled_PL_LW"
 Sub Weekly_HTGPaxLegsLWMTD()
 
 Application.DisplayAlerts = False
